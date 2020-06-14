@@ -8,7 +8,7 @@
   
   LINKS:
     YOUTUBE-TUTORIAL: https://youtu.be/V65LA_Q6EaU
-    BLOG-ARTICLE: https://will-records.tk/site/website_will_records/php/project_article_my_plugin_tag_system_in_reaper.php
+    BLOG-ARTICLE: https://will-records.tk/site/php/project_article_my_plugin_tag_system_in_reaper.php
 	FORUM: https://forum.cockos.com/showthread.php?p=2300953#post2300953
 	GITHUB: https://github.com/Will-Develop/plugin_tag_system_in_reaper
 
