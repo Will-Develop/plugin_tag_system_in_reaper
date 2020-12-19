@@ -5,5 +5,4 @@ I developed a tag system in Reaper to help me find the right plugin for the righ
 - Download REAPER Stash: https://stash.reaper.fm/39592/Will-Develop_read_tags_%28for%20Plugin%20tag%20System%29_v.1.0.lua
 
 - Author: Will Develop 
-- Website: https://www.will-records.tk
 - E-Mail: will-develop@gmx.de
